@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Purva Rajwadkar 👋
 
-<!--
-**purvarajwadkar045/purvarajwadkar045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
 
-Here are some ideas to get you started:
+💻 Python Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Python
+- FastAPI
+- PostgreSQL
+- MongoDB
+- REST APIs
+- Git & GitHub
+- C++
+- Core Java
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- Docker
+- System Design
+
+## Areas of Interest
+
+- Backend Development
+- API Design
+- Database Design
+- Software Engineering
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/purva-rajwadkar
+
+📍 Pune, Maharashtra, India
