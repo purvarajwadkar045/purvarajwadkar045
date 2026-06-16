@@ -30,6 +30,6 @@
 
 ## Connect With Me
 
-- LinkedIn: https://linkedin.com/in/purva-rajwadkar
+- LinkedIn:https://www.linkedin.com/in/purva-rajwadkar
 
 📍 Pune, Maharashtra, India
